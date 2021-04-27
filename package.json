@@ -14,7 +14,7 @@
     "express": "^4.16.1",
     "express-messages": "^1.0.1",
     "express-session": "^1.15.6",
-    "express-validator": "^4.2.1",
+    "express-validator": "^6.5.0",
     "csurf": "^1.9.0",
     "mongoose": "^4.12.4",
     "monk": "^6.0.5",
